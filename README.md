@@ -1,4 +1,4 @@
-# Molly
+# ConvoFlow: AI Phone Agent Pipelines
 
 AI Platform for Automating Phone Agent Pipelines using Twilio and Dialogflow CX
 
